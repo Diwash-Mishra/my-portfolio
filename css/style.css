@@ -1,0 +1,143 @@
+body{
+    background-color: black;
+    background-size: auto;
+    
+}
+.home table{
+    margin-left: 1000px;
+}
+.home table tr th{
+    padding-left: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.portfolio p{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 200px;
+    font-size: x-large;
+    padding-left: 700px;
+    letter-spacing: 3px;
+    padding-bottom: 35px;
+}
+.portfolio img{
+    width: 500px;
+    padding-top: 10px;
+    margin-top: -350px;
+}
+.portfolio c{
+    color:  #008CBA;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.about{
+    background-color: #808080;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.about h1{
+    color: rgb(226, 35, 140);
+    text-align: center;
+    margin-top: 200px;
+    font-size: 80px;
+    padding-left: 600px;
+    letter-spacing: 3px;
+}
+.about p{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 80px;
+    font-size: x-large;
+    padding-left: 600px;
+    letter-spacing: 3px;
+    margin-bottom: 100px;
+}
+.about img{
+    width: 600px;
+    margin-top: -100%;
+    padding-top: -100%;
+    margin-bottom: 25px;
+}
+.about c{
+    color:  red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 200;
+}
+h2{
+    color: rgb(128, 236, 236);
+    text-align: center;
+    margin-top: 150px;
+    font-size: 60px;
+    padding-left: 10px;
+    letter-spacing: 3px;
+}
+.contact table, tr, th{
+    color: aliceblue;
+    padding-left: 300px;
+    text-align: left;
+    padding-bottom: 20px;
+    table-layout: fixed;
+    font-size: 30px;
+}
+.phone img{
+    width: 80px;
+    padding-bottom: 100px;
+    margin-top: -500px;
+    margin-bottom: 150px;
+    margin-left: 515px;
+}
+.gmail img{
+    width: 45px;
+    padding-bottom: 30px;
+    margin-top: -500px;
+    margin-bottom: 165px;
+    margin-left: 530px;
+}
+.location img{
+    width: 50px;
+    padding-bottom: 100px;
+    margin-top: -500px;
+    margin-bottom: 10px;
+    margin-left: 525px;
+}
+.facebook img{
+    width: 50px;
+    margin-left: 550px;
+}
+.insta img{
+    width: 50px;
+    margin-left: 630px;
+    margin-top: -72px;
+}
+.tiktok img{
+    width: 40px;
+    margin-left: 700px;
+    margin-top: -200px;
+    margin-bottom: 50px;
+}
+.gmail2 img{
+    width: 40px;
+    margin-left: 760px;
+    margin-top: -200px;
+    margin-bottom: 68px;
+}
+.form h3{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 60px;
+    padding-left: 10px;
+    letter-spacing: 3px;
+}
+.form img{
+    width: 400px;
+    margin-left: 500px;
+}
+    
+
+
+
