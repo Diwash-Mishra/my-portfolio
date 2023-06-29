@@ -137,7 +137,38 @@ h2{
     width: 400px;
     margin-left: 500px;
 }
-    
+.assignment img{
+    width: 200px;
+    margin-left: 750px;
+    margin-top: -50px;
+} 
+.assignment a{
+    margin-left: 750px;
+    color: blue;
+    font-size: larger;
+}
+.visit img{
+    width: 280px;
+    margin-left: 580px;
+    margin-top: 40px;
+}
+.visit a{
+    margin-left: 590px;
+    color: blue;
+    font-size: larger;
+}
+.olympics img{
+    width: 300px;
+    margin-top: -500px;
+    margin-bottom: 250px;
+    margin-left: 200px;
+}
+.olympics a{
+    margin-left: -300px;
+    color: blue;
+    font-size: larger;
+}
+
 
 
 
