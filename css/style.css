@@ -164,9 +164,11 @@ h2{
     margin-left: 200px;
 }
 .olympics a{
-    margin-left: -300px;
+    margin-left: 200px;
     color: blue;
     font-size: larger;
+    display: flex;
+    margin-top: -200px;
 }
 
 
